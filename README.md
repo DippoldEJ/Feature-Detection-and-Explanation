@@ -5,7 +5,8 @@ Area of Interest
 Some Areas are in terms of ther intensity adjusted (Matlab, Imadjust). THis can come in handy if the image or band appears too dark for the visual inspection. So That, this cases are mark with an capitilized A.  
 
 
-| Sample AOI|
+Sample AOI
+
 |-------| -------| -------| 
 | <p align="center"> CIR Rural <br /> </p> <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/a7923edb-f4d9-4dc1-b620-c8f74847b0dc" />  | A RGB Urban <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e87b16ee-c53f-47ee-9199-6bbc4e8bde30" /> A RGB Industrial <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3d054f5a-2959-45af-a464-d786384629ba" />  | 
 | CIR Open Pit Mine <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/9793b90d-eb33-4a12-b7e3-37ad61e2d061" />  | 
