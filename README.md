@@ -5,7 +5,7 @@ Area of Interest
 Some Areas are in terms of ther intensity adjusted (Matlab, Imadjust). THis can come in handy if the image or band appears too dark for the visual inspection. So That, this cases are mark with an capitilized A.  
 
 
-# Sample AOI
+Sample AOI
 
 | Img1 | Img2 | Img3 | 
 |-------| -------| -------| 
