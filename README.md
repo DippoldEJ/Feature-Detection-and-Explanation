@@ -14,7 +14,7 @@ Sample AOI
 
 | Img1 | Img2 | Img3 |  Img4 | 
 |-------| -------| -------| -------| 
-| <p align="center"> CIR Rural <br /> </p> <p align="center"> <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/a7923edb-f4d9-4dc1-b620-c8f74847b0dc" />  </p>  | PAN 1 |<p align="center"> A RGB Urban <br /> </p>  </p> <p align="center"> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e87b16ee-c53f-47ee-9199-6bbc4e8bde30" /> </p> | PAN 2|
+| <p align="center"> CIR Rural <br /> </p> <p align="center"> <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/a7923edb-f4d9-4dc1-b620-c8f74847b0dc" />  </p>  | <p align="center"> CIR Rural <br /> </p> <p align="center"> <img width="401" height="401" alt="Image" src="https://github.com/user-attachments/assets/85bb0932-5c60-42a9-8c0a-e57d3bd10cc8" /> </p>  |<p align="center"> A RGB Urban <br /> </p>  </p> <p align="center"> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e87b16ee-c53f-47ee-9199-6bbc4e8bde30" /> </p> | PAN 2|
 | <p align="center">  **Img5** </p>| Img6 | Img7 |  Img8 | 
 |<p align="center"> A RGB Industrial <br /> </p> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3d054f5a-2959-45af-a464-d786384629ba" />  | PAN 3 |<p align="center"> CIR Open Pit Mine <br /> </p> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/9793b90d-eb33-4a12-b7e3-37ad61e2d061" />  | PAN4 |
 | <p align="center">  **Img9** </p>| Img10 | Img11 |  Img12 | 
