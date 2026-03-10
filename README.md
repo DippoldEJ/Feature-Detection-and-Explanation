@@ -20,7 +20,7 @@ Sample AOI
 | <p align="center">  **Img9** </p>| Img10 | Img11 |  Img12 | 
 
 
-| A RGB Waterstream and Streets  <p align="center"> <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/61fd179c-4f0e-4e56-9376-bcae0eb81986" /> </p> | PAN5 | <p align="center"> A RGBAirbase <br /> </p> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/ec284537-4203-46e4-9a71-1b057cb35222" />| PAN6 |
+| A RGB Waterstream and Streets  <p align="center"> <br /> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/61fd179c-4f0e-4e56-9376-bcae0eb81986" /> </p> | <p align="center"> A PAN Waterstream and Streets  <br /> </p> <p align="center"> <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/ef4d731e-8930-4c9f-bb4e-e2fbdbe3597c" />  </p>  | <p align="center"> A RGBAirbase <br /> </p> <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/ec284537-4203-46e4-9a71-1b057cb35222" />| PAN6 |
 
 Location of the AOIs in the MS and PAN Imagery
 -------------------------
