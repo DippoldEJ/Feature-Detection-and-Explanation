@@ -24,6 +24,8 @@ Location of the AOIs in the MS and PAN Imagery
 -------------------------
 Test
 
+<img width="760" height="766" alt="Image" src="https://github.com/user-attachments/assets/247184e3-0c75-435a-b311-f7500fd8b489" />
+
 Overview Features, Corners, Edges, Lines and Points
 -------------------------
 Text
