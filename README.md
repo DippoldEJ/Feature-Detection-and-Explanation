@@ -5,7 +5,7 @@ Feature Detection and Explanation
 DippoldEJ Satellite Datasets very-high Resolution medium Resolution Satellite Imagery Application AOI Features Corners Edges Lines Points <br />
 <br />
 
-Area of Interest
+ Multispectral (MS) and Panchromatic (PAN) Area of Interest
 --------------------
 Some Areas are in terms of ther intensity adjusted (Matlab, Imadjust). THis can come in handy if the image or band appears too dark for the visual inspection. So That, this cases are mark with an capitilized A.  
 
