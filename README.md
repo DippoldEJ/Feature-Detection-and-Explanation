@@ -14,7 +14,7 @@ Sample AOI
 
 | Img1 | Img2 | Img3 |  Img4 | 
 |-------| -------| -------| -------| 
-| <p align="center"> CIR Rural <br /> </p> <p align="center"> <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/a7923edb-f4d9-4dc1-b620-c8f74847b0dc" />  </p>  | <p align="center"> A PAN Rural <br /> </p> <p align="center"> <img width="401" height="401" alt="Image" src="https://github.com/user-attachments/assets/85bb0932-5c60-42a9-8c0a-e57d3bd10cc8" /> </p>  |<p align="center"> A RGB Urban <br /> </p>  </p> <p align="center"> <img width="201" height="101" alt="Image" src="https://github.com/user-attachments/assets/347df56c-0046-491f-b528-86d265c8f348"  /> </p> | <p align="center"> CIR Rural <br /> </p> <p align="center"> <img width="150" height="150" alt="Image" src="" /> |
+| <p align="center"> CIR Rural <br /> </p> <p align="center"> <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/a7923edb-f4d9-4dc1-b620-c8f74847b0dc" />  </p>  | <p align="center"> A PAN Rural <br /> </p> <p align="center"> <img width="401" height="401" alt="Image" src="https://github.com/user-attachments/assets/85bb0932-5c60-42a9-8c0a-e57d3bd10cc8" /> </p>  |<p align="center"> A RGB Urban <br /> </p>  </p> <p align="center"> <img width="201" height="101" alt="Image" src="https://github.com/user-attachments/assets/347df56c-0046-491f-b528-86d265c8f348"  /> </p> | <p align="center"> A PAN Urban <br /> </p> <p align="center"> <img width="401" height="801" alt="Image" src="https://github.com/user-attachments/assets/042f6b45-be8e-4236-8ba3-ad9a3a54e180" /> |
 
 
 | <p align="center">  **Img5** </p>| Img6 | Img7 |  Img8 | 
