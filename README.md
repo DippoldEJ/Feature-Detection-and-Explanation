@@ -45,7 +45,7 @@ Key Idea
 Interesting Pattern in the visual analysis of optical data are features, corners Lines and points.  <br />
 Selected properties overview of Features, Corners, Edges, Lines and Points Summarized:<br />
 
-| Figure SURF | <div style="width:290px">Explanation</div>  | 
+| Figure SURF | <div style="width:600px">Explanation</div>  | 
 |-------| ------------| 
 |<img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/2aa06c8b-69df-4300-8730-8736a706c0aa" />| * RGB to gray  <br /> * 123330 points <br /> - RGB single processed <br /> - red: 122137 <br /> - green: 123925 <br /> - blue: 120840 | 
 
