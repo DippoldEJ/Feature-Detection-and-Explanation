@@ -47,7 +47,7 @@ Selected properties overview of Features, Corners, Edges, Lines and Points Summa
 
 | Figure SURF | Explanation| 
 |-------| -------| 
-|<img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/f8ad2752-2456-4c19-b79f-b380cc366137" /> | * RGB to gray * 123330 points| 
+|<img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/f8ad2752-2456-4c19-b79f-b380cc366137" /> | * RGB to gray  <br /> * 123330 points| 
 
 <br />
 
