@@ -27,6 +27,10 @@ The location of the AOI shown in the RGB true color image. <br />
 <img width="760" height="766" alt="Image" src="https://github.com/user-attachments/assets/2ab17605-c5ed-4951-8721-154e1d86a4b4" /> <br />
 <br />
 
+Pansharpening
+-------------------------
+The process of Pansharepning 
+
 Key Idea
 -------------------------
 Interesting Patters in the visual analysis of optical data are features, corners Lines and points.  <br />
