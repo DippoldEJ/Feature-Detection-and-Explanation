@@ -42,7 +42,7 @@ Some areas of green vegetation seems to be effected by noise (discoloration). Th
 
 Key Idea
 -------------------------
-Interesting Patters in the visual analysis of optical data are features, corners Lines and points.  <br />
+Interesting Pattern in the visual analysis of optical data are features, corners Lines and points.  <br />
 Selected properties overview of Features, Corners, Edges, Lines and Points Summarized:<br />
 
 | Example Image | SURF | FAST |  Canny | something else | 
