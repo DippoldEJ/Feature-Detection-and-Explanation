@@ -32,10 +32,11 @@ Key Idea
 Interesting Patters in the visual analysis of optical data are features, corners Lines and points.  <br />
 Selected properties overview of Features, Corners, Edges, Lines and Points Summarized:<br />
 
-| Img1 | Img2 | Img3 |  Img4 | 
-|-------| -------| -------| -------| 
+| Example Image | SURF | FAST |  Canny | something else | 
+|-------| -------| -------| -------| -------| 
+|Image | Image | Image | Image | Image | 
 
-
+<br />
 Next
 -------------------------
 Text
