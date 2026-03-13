@@ -33,7 +33,8 @@ The key idea of Pansharepning is the combination of the low resolution 3D data l
 
 | RGB | PAN | Sharped |
 |-------| -------| -------| 
-|<img width="701" height="1001" alt="Image" src="https://github.com/user-attachments/assets/b3430a27-46db-46d8-acbe-3295f5ee6e1b" /> | Image | Image |
+|1001x701x3| 4001x2801| 4001x2801x3|
+|<img width="350" height="500" alt="Image" src="https://github.com/user-attachments/assets/b3430a27-46db-46d8-acbe-3295f5ee6e1b" /> | Image | Image |
 <br />
 
 Key Idea
