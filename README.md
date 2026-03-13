@@ -30,7 +30,8 @@ The location of the AOI shown in the RGB true color image. <br />
 Pansharpening
 -------------------------
 The key idea of Pansharepning is the combination of the low resolution 3D data like RGB or CIR and fuse that with the high resolution oanchromatic band. Gaining high resolution while maintaining color information. <br />
-Some areas of green vegetation seems to be effected by noise. That is interesting. 
+Some areas of green vegetation seems to be effected by noise (discoloration). That is interesting. This can be caused by the image adjustment (Contrast Enhancment) or by the Pansharpening or the vegetation itself is different. <br />
+
 * RGB 1001x701x3 <br />
 * PAN 4001x2801 <br />
 * Sharped 4001x2801x3 <br />
