@@ -49,7 +49,7 @@ Selected properties overview of Features, Corners, Edges, Lines and Points Summa
 |-------| ------------| 
 |<img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/2aa06c8b-69df-4300-8730-8736a706c0aa" />| * RGB to gray  <br /> * 123330 pt <br /> <br /> - RGB single processed <br /> - red: 122137 pt <br /> - green: 123925 pt <br /> - blue: 120840 pt | 
 | <p align="center"> **Figure FAST Corners** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Description**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
-| <img width="560" height="420" alt="Image" src="https://github.com/user-attachments/assets/538d11c6-2277-4ee5-81f6-19fcf9d208fb" /> | * RGB to gray  <br /> * 41 pt <br /> <br /> - RGB single processed <br /> - red: 665 pt <br /> - green: 562 pt <br /> - blue: 718 pt | 
+| <img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/27bd7da3-8b1d-4804-b7c3-50831d4e9b59" />| * RGB to gray  <br /> * 41 pt <br /> <br /> - RGB single processed <br /> - red: 665 pt <br /> - green: 562 pt <br /> - blue: 718 pt | 
 <br />
 
 
