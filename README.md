@@ -29,8 +29,12 @@ The location of the AOI shown in the RGB true color image. <br />
 
 Pansharpening
 -------------------------
-The process of Pansharepning 
+The key idea of Pansharepning is the combination of the low resolution 3D data like RGB or CIR and fuse that with the high resolution oanchromatic band. Gaining high resolution while maintaining color information. <br />
 
+| RGB | PAN | Sharped |
+|-------| -------| -------| 
+|Image | Image | Image |
+<br />
 
 Key Idea
 -------------------------
