@@ -67,10 +67,11 @@ Secondly, remove reduant points, like double or even triple points at the sam lo
 Finally, run the locations through a feature detector of choice to provide for a ll points the same probperties calcualted. <br />
 For clarification: it is Feature Detector Operator (FDO) which consits of detector and descriptor.  <br />
 
-| Figure ACC Features Gray | Figure ACC Features Single |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
-|-------| ------------|  ------------| 
-| img | img |  text | 
+| Figure ACC Features Gray | Figure ACC Features Single |
+|-------| ------------| 
+| img | img |  
 
+<br />
 Application and Verification 
 -------------------------
 
