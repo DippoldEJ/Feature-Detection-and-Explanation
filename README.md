@@ -69,7 +69,7 @@ For clarification: it is Feature Detector Operator (FDO) which consits of detect
 
 | Figure ACC Features Gray | Figure ACC Features Single |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
 |-------| ------------|  ------------| 
-
+| img | img |  text | 
 
 Application and Verification 
 -------------------------
