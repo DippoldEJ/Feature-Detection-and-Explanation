@@ -43,7 +43,9 @@ Some areas of green vegetation seems to be effected by noise (discoloration). Th
 Key Idea
 -------------------------
 Interesting Pattern in the visual analysis of optical data are features, corners Lines and points.  <br />
-Selected properties overview of Features, Corners, Edges, Lines as Points Summarized:<br />
+Selected properties overview of Features, Corners, Edges, Lines as Points summarized down below: <br />
+Two cases are seperated. Case 1 Gray and Case to Single. Case 1 consits of thr RGB turn ito a gray image. <br /> 
+The Case 2 processing the RGB bands, red, green and blue, seperatly from each other. <br />
 
 | Figure SURF Features |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
 |-------| ------------| 
