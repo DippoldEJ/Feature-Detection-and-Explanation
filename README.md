@@ -61,8 +61,10 @@ The Case 2 processing the RGB bands, red, green and blue, seperatly from each ot
 Accumulation
 -------------------------
 
-Text<br />
-<br />
+The accmullation consits of three steps. Firstly, Sum up all points with repect to their location location. <br />
+Secondly, remove reduant points, like double or even triple points at the sam location. <br />
+Finally, run the locations through a feature detector of choice to provide for a ll points the same probperties calcualted. <br />
+For clarification: it is Feature Detector Operator (FDO) which consits of detector and descriptor.  <br />
 
 Application and Verification 
 -------------------------
