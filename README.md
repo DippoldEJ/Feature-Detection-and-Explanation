@@ -72,6 +72,7 @@ For clarification: it is Feature Detector Operator (FDO) which consits of detect
 | img | img |  
 
 <br />
+
 Application and Verification 
 -------------------------
 
