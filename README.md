@@ -63,8 +63,8 @@ Accumulation
 -------------------------
 
 The accmullation consits of three steps. Firstly, Sum up all points with repect to their location location. <br />
-Secondly, remove reduant points, like double or even triple points at the sam location. <br />
-Finally, run the locations through a feature detector of choice to provide for a ll points the same probperties calcualted. <br />
+Secondly, run the locations through a feature detector of choice to provide for a ll points the same probperties calcualted. <br />
+Thirdly, work with the strongest Points. Quality bevor Quantity.  <br />
 For clarification: it is Feature Detector Operator (FDO) which consits of detector and descriptor.  <br />
 
 | Figure ACC Features Gray | Figure ACC Features Single |
