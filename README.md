@@ -45,7 +45,8 @@ Key Idea
 Interesting Pattern in the visual analysis of optical data are features, corners, lines and points.  <br />
 Selected properties overview of Features, such as: corners, edges, lines as points summarized down below: <br />
 **All feautres consists of points**. For instance a lin is just a infinite amount of points. <br />
-Two cases are seperated. Case 1 Gray and Case to Single. Case 1 consits of thr RGB turn ito a gray image. <br /> 
+Two cases are seperated. Case 1 Gray and Case to Single. In adition, Strong and Fast are the strongest 30 points displayed only. <br />
+Case 1 consits of thr RGB turn ito a gray image. <br /> 
 The Case 2 processing the RGB bands, red, green and blue, seperatly from each other. <br />
 
 | Figure SURF Features |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
