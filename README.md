@@ -58,6 +58,9 @@ The Case 2 processing the RGB bands, red, green and blue, seperatly from each ot
 | <img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/9f3a3650-2e56-4eb9-8e4f-f39941f1cd53" />| * RGB to gray  <br /> *  991'530 pt <br /> <br /> - RGB single processed <br /> - red: 1'160'078  pt <br /> - green: 1'246'100 pt <br /> - blue:  1'090'268 pt <br /> - Total:  1'806'442 pt| 
 <br />
 
+Text
+
+<br />
 
 Accumulation
 -------------------------
