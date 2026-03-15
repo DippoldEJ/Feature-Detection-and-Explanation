@@ -69,7 +69,7 @@ For clarification: it is Feature Detector Operator (FDO) which consits of detect
 
 | Figure ACC Features Gray | Figure ACC Features Single |
 |-------| ------------| 
-| <img width="597" height="738" alt="Image" src="https://github.com/user-attachments/assets/fd5a66be-91f5-48d0-b421-ed33d731919b" /> | <img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/0d8dcb06-c707-4c75-ac36-f4623a52ba8c" /> |  
+| <img width="597" height="738" alt="Image" src="https://github.com/user-attachments/assets/fd5a66be-91f5-48d0-b421-ed33d731919b" /> | <img width="597" height="738" alt="Image" src="https://github.com/user-attachments/assets/62548772-4946-4c93-8cd9-8675b46396b7" /> |  
 |Total amount: 1'114'901 pts <br /> Displayed: Strongest 30 points| Total amount: 3'865'294 pts <br /> Displayed: Strongest 30 points| 
 <br />
 
