@@ -58,9 +58,6 @@ The Case 2 processing the RGB bands, red, green and blue, seperatly from each ot
 | <img width="1920" height="971" alt="Image" src="https://github.com/user-attachments/assets/9f3a3650-2e56-4eb9-8e4f-f39941f1cd53" />| * RGB to gray  <br /> *  991'530 pt <br /> <br /> - RGB single processed <br /> - red: 1'160'078  pt <br /> - green: 1'246'100 pt <br /> - blue:  1'090'268 pt <br /> - Total:  1'806'442 pt| 
 <br />
 
-Text
-
-<br />
 
 Accumulation
 -------------------------
@@ -74,6 +71,10 @@ For clarification: it is Feature Detector Operator (FDO) which consits of detect
 |-------| ------------| 
 | <img width="597" height="738" alt="Image" src="https://github.com/user-attachments/assets/fd5a66be-91f5-48d0-b421-ed33d731919b" /> | <img width="597" height="738" alt="Image" src="https://github.com/user-attachments/assets/62548772-4946-4c93-8cd9-8675b46396b7" /> |  
 |Total amount: 1'114'901 pts <br /> Displayed: Strongest 30 points| Total amount: 3'865'294 pts <br /> Displayed: Strongest 30 points| 
+<br />
+
+Text
+
 <br />
 
 Application and Verification 
