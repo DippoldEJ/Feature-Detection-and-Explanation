@@ -73,7 +73,7 @@ For clarification: it is Feature Detector Operator (FDO) which consits of detect
 |Total amount: 1'114'901 pts <br /> Displayed: Strongest 30 points| Total amount: 3'865'294 pts <br /> Displayed: Strongest 30 points| 
 <br />
 
-Application and Verification - Feature Detection and Matching of the strongest 30 features
+Application and Verification - Feature Detection and Matching of the strongest 30 Features
 -------------------------
 
 Application of each feature seperatly and accumulated for gray and rgb case.
