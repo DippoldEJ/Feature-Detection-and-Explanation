@@ -77,10 +77,10 @@ Text
 
 <br />
 
-Application and Verification 
+Application and Verification - Feature Detection and Matching of the strongest 30 features
 -------------------------
 
-Text<br />
+Application of each feature seperatly and accumulated for gray and rgb case.
 <br />
 
 References
