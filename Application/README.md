@@ -15,8 +15,8 @@ flowchart LR;
 
  subgraph Data
         g[(fa:fa-table MS = Multispectral)]
-        h[PAN = Panchromatic]
-        i([Affine Covarians Features])
+        h[(fa:fa-table PAN = Panchromatic)]
+        i[(fa:fa-table Affine Covarians Features)]
     end
 
  subgraph Feature Detector Operator
