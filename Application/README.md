@@ -13,20 +13,20 @@ Structure: <br />
 ```mermaid
 flowchart TD;
 
- subgraph #Data
+ subgraph n[Data]
         g[(fa:fa-table MS = Multispectral)]
         h[(fa:fa-table PAN = Panchromatic)]
         i[(fa:fa-table Affine Covarians Features)]
     end
 
- subgraph Feature Detector Operator
+ subgraph o[Feature Detector Operator]
         j([SURF])
         k([FAST])
         l([Canny])
         m([Accumulative])
     end
 
-subgraph Area of Interest
+subgraph p[Area of Interest]
     a[fa:fa-code Rural]
     b[fa:fa-code Urban]
     c[fa:fa-code Industrial]
