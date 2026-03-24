@@ -36,7 +36,7 @@ subgraph p[Area of Interest]
     end
 
 n-->o
-l-->d
+o-->p
 
 ```
  <br />
