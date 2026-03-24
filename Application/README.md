@@ -13,7 +13,7 @@ Structure: <br />
 ```mermaid
 flowchart TD;
 
- subgraph Data
+ subgraph **Data**
         g[(fa:fa-table MS = Multispectral)]
         h[(fa:fa-table PAN = Panchromatic)]
         i[(fa:fa-table Affine Covarians Features)]
