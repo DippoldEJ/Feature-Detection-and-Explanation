@@ -36,6 +36,7 @@ subgraph p[Area of Interest]
     end
 
 style n color:#f66
+style n fontzise: 13px
 style o stroke-width:6px
 style o color:#028A0F
 style p color:#2798F5
