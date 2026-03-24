@@ -37,6 +37,7 @@ subgraph p[Area of Interest]
 
 style n color:#f66
 style o stroke-width:6px
+style o color:#028A0F
 
 h-->k
 l-->b
