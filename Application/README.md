@@ -11,7 +11,7 @@ Overview
 Structure: <br />
 
 ```mermaid
-flowchart TD;
+flowchart LR;
 
  subgraph n[Data]
         g[(fa:fa-table MS = Multispectral)]
