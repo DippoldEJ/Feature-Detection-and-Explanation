@@ -22,7 +22,7 @@ subgraph AOI
     f[fa:fa-code Open Airbase]
     end
 
- subgraph Imagery
+ subgraph Datatyp
         db[(fa:fa-table MS + PAN)]
         m[MS = Multispectral]
         p[PAN = Panchromatic]
