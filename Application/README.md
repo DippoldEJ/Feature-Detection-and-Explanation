@@ -12,6 +12,10 @@ Structure: <br />
 
 ```mermaid
 flowchart LR;
+%%{init: {
+	'themeVariables': { 'fontSize': '20px', 'fontFamily': 'Didot'}
+	}
+}%%
 
  subgraph n[Data]
         g[(fa:fa-table MS = Multispectral)]
