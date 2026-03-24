@@ -14,7 +14,7 @@ Structure: <br />
 flowchart LR;
 
  subgraph Data
-        g[MS = Multispectral]
+        g[(fa:fa-table MS = Multispectral)]
         h[PAN = Panchromatic]
         i([Affine Covarians Features])
     end
