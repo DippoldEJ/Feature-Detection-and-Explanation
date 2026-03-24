@@ -26,7 +26,14 @@ flowchart LR;
         m([Accumulative])
     end
 
-
+subgraph Area of Interest
+    a[fa:fa-code Rural]
+    b[fa:fa-code Urban]
+    c[fa:fa-code Industrial]
+    d[fa:fa-code Open Pit Mine]
+    e[fa:fa-code Waterstream and Streets]
+    f[fa:fa-code Open Airbase]
+    end
 
 ```
  <br />
