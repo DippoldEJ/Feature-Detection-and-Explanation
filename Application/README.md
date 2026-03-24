@@ -13,7 +13,7 @@ Structure: <br />
 ```mermaid
 flowchart LR;
 
-subgraph Satellite
+subgraph AOI
     s[fa:fa-code Pleiades]
     a[fa:fa-code Landsat]
     end
