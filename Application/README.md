@@ -14,8 +14,12 @@ Structure: <br />
 flowchart LR;
 
 subgraph AOI
-    s[fa:fa-code Pleiades]
-    a[fa:fa-code Landsat]
+    a[fa:fa-code Rural]
+    b[fa:fa-code Urban]
+    c[fa:fa-code Industrial]
+    d[fa:fa-code Open Pit Mine]
+    e[fa:fa-code Waterstream and Streets]
+    f[fa:fa-code Open Airbase]
     end
 
  subgraph Imagery
@@ -26,11 +30,7 @@ subgraph AOI
         c([PAN])
     end
 
-    s==>db
-    db-->m
-    db-->p
-    m-->b
-    p-->c
+
 ```
  <br />
  
