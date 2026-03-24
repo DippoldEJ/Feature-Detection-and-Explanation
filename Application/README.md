@@ -3,8 +3,10 @@
 
 Application of each feature seperatly and accumulated for gray and rgb case.
 <br />
+Application of each feature seperatly and accumulated for gray and rgb case.
+<br />
 
-References
+Text
 ------------------------
 
 Text <br />
