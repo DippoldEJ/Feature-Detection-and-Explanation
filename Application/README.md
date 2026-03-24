@@ -23,11 +23,9 @@ subgraph AOI
     end
 
  subgraph Datatyp
-        db[(fa:fa-table MS + PAN)]
-        m[MS = Multispectral]
-        p[PAN = Panchromatic]
-        b([Red,Green,Blue,NIR])
-        c([PAN])
+        g[MS = Multispectral]
+        h[PAN = Panchromatic]
+        i([Affine Covarians Features])
     end
 
 
