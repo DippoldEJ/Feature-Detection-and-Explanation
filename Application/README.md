@@ -20,8 +20,8 @@ flowchart LR;
     end
 
  subgraph Feature Detector Operator
-        j[SURF]
-        k[FAST]
+        j([SURF])
+        k([FAST])
         l([Canny])
         m([Accumulative])
     end
