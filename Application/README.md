@@ -22,7 +22,7 @@ subgraph AOI
     f[fa:fa-code Open Airbase]
     end
 
- subgraph Datatyp
+ subgraph Data
         g[MS = Multispectral]
         h[PAN = Panchromatic]
         i([Affine Covarians Features])
