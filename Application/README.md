@@ -13,7 +13,7 @@ Structure: <br />
 ```mermaid
 flowchart LR;
 
- subgraph n["`part of heading in **bold**`"]
+ subgraph n["`**bold**`"]
         g[(fa:fa-table MS = Multispectral)]
         h[(fa:fa-table PAN = Panchromatic)]
         i[(fa:fa-table Affine Covarians Features)]
