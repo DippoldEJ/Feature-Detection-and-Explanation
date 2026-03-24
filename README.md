@@ -72,14 +72,3 @@ For clarification: it is Feature Detector Operator (FDO) which consits of detect
 | <img width="597" height="738" alt="Image" src="https://github.com/user-attachments/assets/fd5a66be-91f5-48d0-b421-ed33d731919b" /> | <img width="597" height="738" alt="Image" src="https://github.com/user-attachments/assets/62548772-4946-4c93-8cd9-8675b46396b7" /> |  
 |Total amount: 1'114'901 pts <br /> Displayed: Strongest 30 points| Total amount: 3'865'294 pts <br /> Displayed: Strongest 30 points| 
 <br />
-
-Application and Verification - Feature Detection and Matching of the strongest 30 Features
--------------------------
-
-Application of each feature seperatly and accumulated for gray and rgb case.
-<br />
-
-References
-------------------------
-
-Text <br />
