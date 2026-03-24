@@ -35,6 +35,8 @@ subgraph p[Area of Interest]
     f[fa:fa-code Open Airbase]
     end
 
+style n color:#f66
+
 n-->o
 o-->p
 
