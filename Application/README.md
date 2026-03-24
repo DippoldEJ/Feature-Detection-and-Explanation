@@ -13,7 +13,20 @@ Structure: <br />
 ```mermaid
 flowchart LR;
 
-subgraph AOI
+ subgraph Data
+        g[MS = Multispectral]
+        h[PAN = Panchromatic]
+        i([Affine Covarians Features])
+    end
+
+ subgraph Feature Detector Operator
+        j[SURF]
+        k[FAST]
+        l([Canny])
+        m([Accumulative])
+    end
+
+subgraph Area of Interest (AOI)
     a[fa:fa-code Rural]
     b[fa:fa-code Urban]
     c[fa:fa-code Industrial]
@@ -21,13 +34,6 @@ subgraph AOI
     e[fa:fa-code Waterstream and Streets]
     f[fa:fa-code Open Airbase]
     end
-
- subgraph Data
-        g[MS = Multispectral]
-        h[PAN = Panchromatic]
-        i([Affine Covarians Features])
-    end
-
 
 ```
  <br />
