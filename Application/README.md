@@ -36,13 +36,6 @@ flowchart TD;
     end
 
 subgraph p[Area of Interest]
-    direction LR
-    a[fa:fa-code Rural]
-    b[fa:fa-code Urban]
-    c[fa:fa-code Industrial]
-    d[fa:fa-code Open Pit Mine]
-    e[fa:fa-code Waterstream and Streets]
-    f[fa:fa-code Open Airbase]
     end
 
 style n color:#f66
