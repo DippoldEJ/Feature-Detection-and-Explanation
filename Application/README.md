@@ -20,7 +20,6 @@ flowchart LR;
  subgraph n[Data]
         g[(fa:fa-table MS = Multispectral)]
         h[(fa:fa-table PAN = Panchromatic)]
-        i[(fa:fa-table Affine Covarians Features)]
     end
 
  subgraph o[Feature Detector Operator]
@@ -39,7 +38,9 @@ subgraph p[Area of Interest]
     f[fa:fa-code Open Airbase]
     end
 
-
+ subgraph x[Testing and Verficiation]
+        z[(fa:fa-table Affine Covarians Features)]
+    end
 
 style n color:#f66
 style o stroke-width:6px
