@@ -29,20 +29,20 @@ Z --> ZA
 ```
 
 ```mermaid
-flowchart LR;
+flowchart TD;
 %%{init: {
 	'themeVariables': { 'fontSize': '20px', 'fontFamily': 'Didot'}
 	}
 }%%
 
  subgraph n[Data]
-        direction TD
+        direction LR
         g[(fa:fa-table MS = Multispectral)]
         h[(fa:fa-table PAN = Panchromatic)]
     end
 
  subgraph q[Testing and Verficiation]
-        direction TD
+        direction LR
         r[(fa:fa-table Affine Covarians Features)]
     end
 
