@@ -39,6 +39,10 @@ subgraph p[Area of Interest]
     f[fa:fa-code Open Airbase]
     end
 
+ subgraph o[Testing and Verficiation]
+        p[(fa:fa-table Affine Covarians Features)]
+    end
+
 style n color:#f66
 style o stroke-width:6px
 style o color:#028A0F
