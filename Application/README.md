@@ -18,6 +18,7 @@ flowchart LR;
 }%%
 
  subgraph n[Data]
+        direction TD
         g[(fa:fa-table MS = Multispectral)]
         h[(fa:fa-table PAN = Panchromatic)]
     end
