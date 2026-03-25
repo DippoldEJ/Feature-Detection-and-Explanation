@@ -30,6 +30,7 @@ flowchart TD;
     end
 
  subgraph o[Feature Detector Operator]
+        direction LR
         j([SURF])
         k([FAST])
         l([Canny])
