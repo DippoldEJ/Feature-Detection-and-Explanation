@@ -51,7 +51,6 @@ style o color:#028A0F
 style p color:#2798F5
 
 n-->o
-k-->a
 o-->p
 n-->q
 
