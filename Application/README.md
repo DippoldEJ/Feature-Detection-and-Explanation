@@ -30,8 +30,7 @@ flowchart TD;
 
  subgraph o[Feature Detector Operator - FDO]
         direction LR
-        j([Single FDO])
-        k([Edge Detector])
+        j([Single FDO <br /> Edge Detector])
         m([Accumulative])
     end
 
