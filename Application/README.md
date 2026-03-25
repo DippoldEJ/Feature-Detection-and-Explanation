@@ -37,6 +37,7 @@ flowchart TD;
     end
 
 subgraph p[Area of Interest]
+    direction LR
     a[fa:fa-code Rural]
     b[fa:fa-code Urban]
     c[fa:fa-code Industrial]
