@@ -52,7 +52,7 @@ style p color:#2798F5
 
 n-->o
 k-->a
-l-->b
+o-->p
 n-->q
 
 ```
