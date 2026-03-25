@@ -18,6 +18,7 @@ flowchart LR;
 }%%
 
  subgraph n[Data]
+        direction LR
         h[(fa:fa-table Pleiades)]
 		s[(fa:fa-table In-situ)]
     end
