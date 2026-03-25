@@ -9,6 +9,24 @@ Overview
 ------------------------
 
 Structure: <br />
+```mermaid
+
+flowchart TD
+
+subgraph Z[" "]
+direction LR
+  A --> B
+  B --> C
+end
+
+subgraph ZA[" "]
+direction RL
+    D-->E
+    E-->F
+end
+
+Z --> ZA
+```
 
 ```mermaid
 flowchart LR;
@@ -53,7 +71,6 @@ h-->k
 k-->a
 l-->b
 n-->q
-
 
 ```
  <br />
