@@ -22,6 +22,10 @@ flowchart LR;
         h[(fa:fa-table PAN = Panchromatic)]
     end
 
+ subgraph q[Testing and Verficiation]
+        r[(fa:fa-table Affine Covarians Features)]
+    end
+
  subgraph o[Feature Detector Operator]
         j([SURF])
         k([FAST])
@@ -36,10 +40,6 @@ subgraph p[Area of Interest]
     d[fa:fa-code Open Pit Mine]
     e[fa:fa-code Waterstream and Streets]
     f[fa:fa-code Open Airbase]
-    end
-
- subgraph q[Testing and Verficiation]
-        r[(fa:fa-table Affine Covarians Features)]
     end
 
 style n color:#f66
