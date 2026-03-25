@@ -19,8 +19,7 @@ flowchart TD;
 
  subgraph n[Data]
         direction LR
-        h[(fa:fa-table PAN = Panchromatic)]
-        g[(fa:fa-table MS = Multispectral)]
+        h[(fa:fa-table Pleiades)]
 		s[(fa:fa-table In-situ)]
     end
 
