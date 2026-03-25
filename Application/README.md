@@ -11,7 +11,7 @@ Overview
 Structure: <br />
 
 ```mermaid
-flowchart TD;
+flowchart LR;
 %%{init: {
 	'themeVariables': { 'fontSize': '20px', 'fontFamily': 'Didot'}
 	}
