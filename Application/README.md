@@ -28,11 +28,10 @@ flowchart TD;
         r[(fa:fa-table Affine Covarians Features)]
     end
 
- subgraph o[Feature Detector Operator]
+ subgraph o[Feature Detector Operator - FDO]
         direction LR
-        j([SURF])
-        k([FAST])
-        l([Canny])
+        j([Single FDO])
+        k([Edge Detector])
         m([Accumulative])
     end
 
