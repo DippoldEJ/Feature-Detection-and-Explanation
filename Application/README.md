@@ -36,6 +36,9 @@ flowchart TD;
     end
 
 subgraph p[Area of Interest]
+    a([rural])
+    b([urban])
+    b([misc])
     end
 
 style n color:#f66
