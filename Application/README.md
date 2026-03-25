@@ -9,24 +9,6 @@ Overview
 ------------------------
 
 Structure: <br />
-```mermaid
-
-flowchart TD
-
-subgraph Z[" "]
-direction LR
-  A --> B
-  B --> C
-end
-
-subgraph ZA[" "]
-direction RL
-    D-->E
-    E-->F
-end
-
-Z --> ZA
-```
 
 ```mermaid
 flowchart TD;
@@ -39,6 +21,7 @@ flowchart TD;
         direction LR
         g[(fa:fa-table MS = Multispectral)]
         h[(fa:fa-table PAN = Panchromatic)]
+		s[(fa:fa-table In-situ)]
     end
 
  subgraph q[Testing and Verficiation]
