@@ -23,7 +23,7 @@ flowchart LR;
 		s[(fa:fa-table In-situ)]
     end
 
- subgraph q[Testing and Verficiation]
+ subgraph q[Testing and Verification]
         direction LR
         r[(fa:fa-table Affine Covarians Features)]
     end
