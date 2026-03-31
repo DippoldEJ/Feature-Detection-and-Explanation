@@ -29,7 +29,7 @@ flowchart LR;
         r[(fa:fa-table Affine Covarians Features)]
     end
 
- subgraph o[Feature Detector Operator - FDO]
+ subgraph o[Indices]
         direction LR
         j([Single FDO <br /> Edge Detector])
         m([Accumulative])
