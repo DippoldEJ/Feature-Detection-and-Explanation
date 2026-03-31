@@ -1,9 +1,9 @@
 
 
 
-# Application and Comparision - Area Features of Pleiades in comparision to Pleiades NEO
+# Application and Verficiation - Feature Detection adn Matching
 
-DippoldEJ Satellite Datasets Application Area Features <br />
+DippoldEJ Satellite Datasets Application Features <br />
 
 <br />
 
