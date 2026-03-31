@@ -26,13 +26,13 @@ flowchart LR;
 
  subgraph q[Testing and Verification]
         direction LR
-        r[(fa:fa-table Affine Covarians Features)]
+        r[(fa:fa-table Benchmark)]
     end
 
  subgraph o[Indices]
         direction LR
-        j([Single FDO <br /> Edge Detector])
-        m([Accumulative])
+        j([NDVI <br /> Edge Detector])
+        m([others])
     end
 
 subgraph p[Area of Interest]
