@@ -19,7 +19,7 @@ flowchart LR;
 
  subgraph n[Data]
         direction LR
-        h[(fa:fa-table  Satellite Imagery)]
+        h[(fa:fa-table Sample Imagery)]
 		s[(fa:fa-table In-situ)]
     end
 
