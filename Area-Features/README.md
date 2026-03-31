@@ -1,6 +1,6 @@
 
 
-# Application and Comparision - Area Features of Pleiades in comparision to Pleiades NEO
+# Application and Comparision - Area Features of Pleiades VS. Pleiades NEO
 
 DippoldEJ Satellite Datasets Application Area Features <br />
 
