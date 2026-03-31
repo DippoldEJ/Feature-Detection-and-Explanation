@@ -32,7 +32,7 @@ flowchart LR;
  subgraph o[Indices]
         direction LR
         j([NIR based like NDVI])
-        j([RGB based like Text])
+        a([RGB based like Text])
         m([Red Edge, Deep Blue and others])
     end
 
