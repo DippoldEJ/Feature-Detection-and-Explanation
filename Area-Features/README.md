@@ -1,8 +1,8 @@
 
 
-# Application and Verification - Feature Detection and Matching of the strongest 30 Features
+# Application and Comparision - Area Features of Pleiades in comparision to Pleiades NEO
 
-DippoldEJ Satellite Datasets Application Features Detection and Matching <br />
+DippoldEJ Satellite Datasets Application Area Features <br />
 
 <br />
 
