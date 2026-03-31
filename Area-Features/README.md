@@ -31,8 +31,9 @@ flowchart LR;
 
  subgraph o[Indices]
         direction LR
-        j([NDVI <br /> NDWI])
-        m([others])
+        j([NIR based like NDVI])
+        j([RGB based like Text])
+        m([Red Edge, Deep Blue and others])
     end
 
 subgraph p[Area of Interest]
