@@ -22,7 +22,6 @@ flowchart LR;
         direction LR
         h[(fa:fa-table Pleiades)]
         b[(fa:fa-table Pleiades Neo)]
-		s[(fa:fa-table In-situ)]
     end
 
  subgraph q[Testing and Verification]
@@ -48,6 +47,7 @@ style q color:#FFFF00
 
 n-->o
 o-->p
+o-->q
 n-->q
 
 h-->b
