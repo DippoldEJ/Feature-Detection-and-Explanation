@@ -31,7 +31,7 @@ flowchart LR;
 
  subgraph o[Indices]
         direction LR
-        j([NDVI <br /> Edge Detector])
+        j([NDVI <br /> NDWI])
         m([others])
     end
 
