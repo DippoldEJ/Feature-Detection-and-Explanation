@@ -60,9 +60,9 @@ The Indices
 ------------------------
 
 The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplication are used to demonstrate the power of area features and the differences between Pleiades and Pleiades NEO. 
-
  
 <br />
+
 |No |Acronym |long form |Bands |Formula | 
 |---|--------|----------|------|--------|
 |01| NDVI| Normalized Differential Vegetation Index| Red, NIR| NDVI = |
