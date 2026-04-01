@@ -4,8 +4,6 @@
 
 DippoldEJ Satellite Datasets Application Area Features <br />
 
-<br />
-
 Overview 
 ------------------------
 
