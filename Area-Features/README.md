@@ -56,7 +56,7 @@ b-->h
 ```
  <br />
  
-The indecies 
+The Indices 
 ------------------------
 
 Text 
