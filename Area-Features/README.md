@@ -65,5 +65,9 @@ Text
 References 
 ------------------------
 
-Text 
+Hyperspectral Remote-Sensing Data for Monitoring Winter Wheat Growth, Remote Sensing, p. 3811.
+
+Tran, T.V., Reef, R., Zhu, X., 2022. A Review of Spectral Indices for Mangrove Remote Sensing, Remote Sensing, p. 4868.
+<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/3a2f49b2-784f-4b3e-8ed8-10821e448ceb" />
+ 
 <br />
