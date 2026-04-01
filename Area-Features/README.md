@@ -61,6 +61,10 @@ The Indices
 
 Text 
 <br />
+|No |Acronym |long form | Bands| Expresson| 
+|---||---||---||---||---|
+|01| NDVI| Normalized Differential VEgetation Index| Red, NIR| NDVI = |
+
 
 References 
 ------------------------
