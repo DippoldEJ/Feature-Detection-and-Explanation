@@ -63,9 +63,9 @@ The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished
  
 <br />
 
-|No |Acronym |long form |Bands |Formula | 
-|---|--------|----------|------|--------|
-|01| NDVI| Normalized Differential Vegetation Index| Red, NIR| NDVI = $\frac{NIR - RED}{NIR + RED}$ |
+|No |Acronym |long form |Bands |Formula | Range with Legend|
+|---|--------|----------|------|--------|--------|
+|01| NDVI| Normalized Differential Vegetation Index| Red, NIR| NDVI = $\frac{NIR - RED}{NIR + RED}$ |<img width="233" height="160" alt="Image" src="https://github.com/user-attachments/assets/af961218-2d34-4be1-b277-0205ed4e564c" /> |
 
 
 <br />
