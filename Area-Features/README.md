@@ -23,9 +23,10 @@ flowchart LR;
         b[(fa:fa-table Pleiades Neo)]
     end
 
- subgraph q[Testing and Verification]
+ subgraph q[Bands Available]
         direction LR
-        r[(fa:fa-table Benchmark)]
+        r[(fa:fa-table Red, <br /> Green, <br /> Blue)]
+        h[(fa:fa-table Red, <br /> Green, <br /> Blue)]
     end
 
  subgraph o[Indices]
