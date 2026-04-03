@@ -18,7 +18,6 @@ flowchart LR;
 
  subgraph n[Data]
         direction LR
-        h[(fa:fa-table Pleiades)]
         b[(fa:fa-table Pleiades Neo)]
     end
 
