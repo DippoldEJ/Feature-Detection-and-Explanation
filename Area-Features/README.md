@@ -6,8 +6,6 @@ DippoldEJ Satellite Datasets Application Area Features VHR Satellite Imagery Ple
 
 Source Pleiades
 
- <br />
-
 Overview 
 ------------------------
 
