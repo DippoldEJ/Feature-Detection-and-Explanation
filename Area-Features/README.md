@@ -4,7 +4,9 @@
 
 DippoldEJ Satellite Datasets Application Area Features VHR Satellite Imagery Pleiades NEO <br />
 
-[SourcePleiades]([https://github.com/DippoldEJ/Feature-Detection-and-Explanation/tree/main/Application](https://github.com/DippoldEJ/Satellite-Datasets/tree/main/Pleiades-Neo))
+[SourcePleiades](https://github.com/DippoldEJ/Satellite-Datasets/tree/main/Pleiades-Neo)
+
+[Application](https://github.com/DippoldEJ/Feature-Detection-and-Explanation/tree/main/Application)
 
 Overview 
 ------------------------
