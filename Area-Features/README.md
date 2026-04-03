@@ -2,7 +2,11 @@
 
 # Comparison - Area Features of Pleiades NEO
 
-DippoldEJ Satellite Datasets Application Area Features <br />
+DippoldEJ Satellite Datasets Application Area Features VHR Satellite Imagery Pleiades NEO <br />
+
+Source Pleiades
+
+ <br />
 
 Overview 
 ------------------------
