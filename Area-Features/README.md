@@ -26,7 +26,7 @@ flowchart LR;
  subgraph q[Bands Available]
         direction LR
         r[(fa:fa-table Red, Green, Blue)]
-        h[(fa:fa-table Red, <br /> Green, <br /> Blue)]
+        h[(fa:fa-table NIR, Red Edge, Deep Blue)]
     end
 
  subgraph o[Indices]
