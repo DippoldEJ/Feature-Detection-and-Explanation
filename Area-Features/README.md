@@ -25,7 +25,7 @@ flowchart LR;
 
  subgraph q[Bands Available]
         direction LR
-        r[(fa:fa-table Red, <br /> Green, <br /> Blue)]
+        r[(fa:fa-table Red, Green, Blue)]
         h[(fa:fa-table Red, <br /> Green, <br /> Blue)]
     end
 
