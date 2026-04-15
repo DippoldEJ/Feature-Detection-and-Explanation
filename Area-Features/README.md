@@ -31,7 +31,7 @@ flowchart LR;
 
  subgraph o[Indices]
         direction LR
-        j([NIR based like NDVI  NDVI = $\frac{NIR - RED}{NIR + RED}$])
+        j([NIR based like NDVI])
         c([RGB based like NGRDI])
         m([Red Edge, Deep Blue and others])
     end
