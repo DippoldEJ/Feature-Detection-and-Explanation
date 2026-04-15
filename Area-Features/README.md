@@ -55,7 +55,7 @@ q-->o
 ```
  <br />
  
-The Indices 
+The Indices  - Vegetation
 ------------------------
 
 The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished are used to demonstrate the power of area features with Pleiades NEO. <br />
@@ -76,12 +76,11 @@ Coefficients:<br />
 |No |Acronym |Formula| Bands| Long Form with Legend | Example|
 |---|--------|----------|------|--------|--------|
 |01| <p align="center">NDVI</p>| <img width="196" height="54" alt="image" src="https://github.com/user-attachments/assets/437685f4-527f-4046-94b0-e20890fb1145" />| NIR, Red| <p align="center"> **Normalized Differential Vegetation Index** </p> <img width="400" height="76" alt="Image" src="https://github.com/user-attachments/assets/f9272c30-9a30-4fc4-9254-fafd28564ba7" />| <img width="101" height="101" alt="Image" src="https://github.com/user-attachments/assets/64f5a061-f6d0-447d-932f-68aca26e5063" />
-|02 |<p align="center">NDWI</p> |<img width="221" height="53" alt="image" src="https://github.com/user-attachments/assets/27155268-84d3-4a6e-812f-48dd5258e094" />| NIR, Green| **Normalized Differential Water Index**| Example|
-|03| <p align="center">EVI</p> | <img width="408" height="62" alt="image" src="https://github.com/user-attachments/assets/7fb973b5-8116-4230-8bb3-1196d5b62d18" />| NIR, Red Blue L| Enhanced Vegetation Index| Example| 
-|04| <p align="center">SAVI</p> | <img width="309" height="54" alt="image" src="https://github.com/user-attachments/assets/5fee2e1c-d0e5-497f-b625-b3ee2b4e9646" />| NIR, Red | Long form | Example|
-|05| <p align="center">CVI</p> | Formula | Bands | Long form | Example|
-|06| <p align="center">NDRE</p> | Formula | Bands | Long form | Example|
-|07| <p align="center">CI-RedEdge</p> | Formula | Bands | Long form | Example|
+|02| <p align="center">EVI</p> | <img width="408" height="62" alt="image" src="https://github.com/user-attachments/assets/7fb973b5-8116-4230-8bb3-1196d5b62d18" />| NIR, Red Blue L| Enhanced Vegetation Index| Example| 
+|03| <p align="center">SAVI</p> | <img width="309" height="54" alt="image" src="https://github.com/user-attachments/assets/5fee2e1c-d0e5-497f-b625-b3ee2b4e9646" />| NIR, Red | Long form | Example|
+|04| <p align="center">CVI</p> | Formula | Bands | Long form | Example|
+|05| <p align="center">NDRE</p> | Formula | Bands | Long form | Example|
+|06| <p align="center">CI-RedEdge</p> | Formula | Bands | Long form | Example|
 <br />
 
 References 
