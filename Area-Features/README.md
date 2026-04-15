@@ -64,11 +64,11 @@ The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished
 EVI = G * \frac{NIR - RED}{NIR + C_1 * Red - C_2 * Blue + L}\
 ```
 
-Coefficients:
- (Gain Factor): 2.5
- (Atmospheric resistance coefficient 1): 6.0
- (Atmospheric resistance coefficient 2): 7.5
- (Canopy background adjustment): 1
+Coefficients:<br />
+ (Gain Factor): 2.5<br />
+ (Atmospheric resistance coefficient 1): 6.0<br />
+ (Atmospheric resistance coefficient 2): 7.5<br />
+ (Canopy background adjustment): 1<br />
 
 
 <br />
