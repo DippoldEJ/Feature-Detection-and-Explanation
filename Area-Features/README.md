@@ -61,7 +61,7 @@ The Indices
 The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished are used to demonstrate the power of area features with Pleiades NEO. <br />
 
 ```math 
-NDVI = \frac{NIR - RED}{NIR + RED}
+EVI = G * \frac{NIR - RED}{NIR + RED}
 ```
 
 <br />
@@ -70,7 +70,7 @@ NDVI = \frac{NIR - RED}{NIR + RED}
 |---|--------|----------|------|--------|--------|
 |01| <p align="center">NDVI</p>| <img width="196" height="54" alt="image" src="https://github.com/user-attachments/assets/437685f4-527f-4046-94b0-e20890fb1145" />| NIR, Red| <p align="center"> **Normalized Differential Vegetation Index** </p> <img width="400" height="76" alt="Image" src="https://github.com/user-attachments/assets/f9272c30-9a30-4fc4-9254-fafd28564ba7" />| <img width="101" height="101" alt="Image" src="https://github.com/user-attachments/assets/64f5a061-f6d0-447d-932f-68aca26e5063" />
 |02 |<p align="center">NDWI</p> |<img width="221" height="53" alt="image" src="https://github.com/user-attachments/assets/27155268-84d3-4a6e-812f-48dd5258e094" />| NIR, Green| **Normalized Differential Water Index**| Example|
-|03| EVI| Form | NIR, Red Blue L| Enhanced Vegetation Index| Example| 
+|03| EVI| <img width="408" height="62" alt="image" src="https://github.com/user-attachments/assets/7fb973b5-8116-4230-8bb3-1196d5b62d18" />| NIR, Red Blue L| Enhanced Vegetation Index| Example| 
 
 <br />
 
