@@ -58,7 +58,8 @@ q-->o
 The Indices 
 ------------------------
 
-The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished are used to demonstrate the power of area features with Pleiades NEO. 
+The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished are used to demonstrate the power of area features with Pleiades NEO. <br />
+
  NDVI = $\frac{NIR - RED}{NIR + RED}$
 <br />
 
