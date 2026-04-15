@@ -79,6 +79,7 @@ Coefficients:<br />
 |02 |<p align="center">NDWI</p> |<img width="221" height="53" alt="image" src="https://github.com/user-attachments/assets/27155268-84d3-4a6e-812f-48dd5258e094" />| NIR, Green| **Normalized Differential Water Index**| Example|
 |03| <p align="center">EVI</p> | <img width="408" height="62" alt="image" src="https://github.com/user-attachments/assets/7fb973b5-8116-4230-8bb3-1196d5b62d18" />| NIR, Red Blue L| Enhanced Vegetation Index| Example| 
 |04| <p align="center">SAVI</p> | Formula | Bands | Long form | Example|
+|04| <p align="center">SAVI</p> | Formula | Bands | Long form | Example|
 
 <br />
 
