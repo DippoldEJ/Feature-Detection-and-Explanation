@@ -68,7 +68,7 @@ NDVI = \frac{NIR - RED}{NIR + RED}
 
 |No |Acronym |Formula| Bands| Long Form with Legend | Example|
 |---|--------|----------|------|--------|--------|
-|01| <p align="center">NDVI</p>|  <img width="205" height="57" alt="Image" src="https://github.com/user-attachments/assets/df1ba1ba-7781-4429-b440-127070d7b500" />| Red, NIR| <p align="center"> **Normalized Differential Vegetation Index** </p> <img width="400" height="76" alt="Image" src="https://github.com/user-attachments/assets/f9272c30-9a30-4fc4-9254-fafd28564ba7" />| <img width="101" height="101" alt="Image" src="https://github.com/user-attachments/assets/64f5a061-f6d0-447d-932f-68aca26e5063" />
+|01| <p align="center">NDVI</p>|  <img width="201" height="53" alt="Image" src="https://github.com/user-attachments/assets/f330f711-05c2-4fc5-baf0-0d5574fc37e1" />| Red, NIR| <p align="center"> **Normalized Differential Vegetation Index** </p> <img width="400" height="76" alt="Image" src="https://github.com/user-attachments/assets/f9272c30-9a30-4fc4-9254-fafd28564ba7" />| <img width="101" height="101" alt="Image" src="https://github.com/user-attachments/assets/64f5a061-f6d0-447d-932f-68aca26e5063" />
 |02 |<p align="center">NDWI</p> |Formula| NIR, Green| Long Form with Legend | Example|
 
 
