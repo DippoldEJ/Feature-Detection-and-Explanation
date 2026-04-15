@@ -65,10 +65,10 @@ EVI = G * \frac{NIR - RED}{NIR + C_1 * Red - C_2 * Blue + L}\
 ```
 
 Coefficients:<br />
- (Gain Factor): 2.5<br />
- (Atmospheric resistance coefficient 1): 6.0<br />
- (Atmospheric resistance coefficient 2): 7.5<br />
- (Canopy background adjustment): 1<br />
+ Gain Factor: 2.5<br />
+ Atmospheric resistance coefficient 1: 6.0<br />
+ Atmospheric resistance coefficient 2: 7.5<br />
+ Canopy background adjustment: 1<br />
 
 
 <br />
