@@ -62,6 +62,7 @@ The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished
 
 ```math 
 EVI = G * \frac{NIR - RED}{NIR + C_1 * Red - C_2 * Blue + L}
+<br />
 
 Coefficients:  <br />
  (Gain Factor): 2.5
