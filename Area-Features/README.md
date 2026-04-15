@@ -64,7 +64,7 @@ The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished
 
 |No |Acronym |Long Form with Legend |Bands |Formula | Example|
 |---|--------|----------|------|--------|--------|
-|01| <p align="center">NDVI</p>| <p align="center"> **Normalized Differential Vegetation Index** </p> <img width="400" height="76" alt="Image" src="https://github.com/user-attachments/assets/f9272c30-9a30-4fc4-9254-fafd28564ba7" />| Red, NIR| NDVI = $\frac{NIR - RED}{NIR + RED}$| <img width="101" height="101" alt="Image" src="https://github.com/user-attachments/assets/64f5a061-f6d0-447d-932f-68aca26e5063" />
+|01| <p align="center">NDVI</p>| <p align="center"> **Normalized Differential Vegetation Index** </p> <img width="400" height="76" alt="Image" src="https://github.com/user-attachments/assets/f9272c30-9a30-4fc4-9254-fafd28564ba7" />| Red, ```math NIR| NDVI = $\frac{NIR - RED}{NIR + RED}$ | <img width="101" height="101" alt="Image" src="https://github.com/user-attachments/assets/64f5a061-f6d0-447d-932f-68aca26e5063" />
 |02 |<p align="center">NDWI</p>|<p align="center"> **Normalized Differential Water Index** </p> | Bands | Formula |Example |
 
 
