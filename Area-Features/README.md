@@ -61,7 +61,7 @@ The Indices
 The comparision (Tran et al., 2022) and the review (Feng et al., 2022) puplished are used to demonstrate the power of area features with Pleiades NEO. <br />
 
 ```math 
-EVI = G * \frac{NIR - RED}{NIR + C_1 * Red - C_2 * Blue + L}\
+EVI = G * \frac{NIR - RED}{NIR + C_1 * Red - C_2 * Blue + L}
 ```
 
 Coefficients:<br />
