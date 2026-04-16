@@ -73,14 +73,14 @@ Coefficients:<br />
 
 <br />
 
-|No |Acronym |Formula| Bands| Long Form with Legend | Example|
-|---|--------|----------|------|--------|--------|
-|01| <p align="center">NDVI</p>| <img width="196" height="54" alt="image" src="https://github.com/user-attachments/assets/437685f4-527f-4046-94b0-e20890fb1145" />| NIR, Red| <p align="center"> **Normalized Differential Vegetation Index** </p> <img width="400" height="76" alt="Image" src="https://github.com/user-attachments/assets/f9272c30-9a30-4fc4-9254-fafd28564ba7" />| <img width="101" height="101" alt="Image" src="https://github.com/user-attachments/assets/64f5a061-f6d0-447d-932f-68aca26e5063" />
-|03| <p align="center">NDRE</p> | <img width="209" height="45" alt="image" src="https://github.com/user-attachments/assets/a5d1e1db-f2ee-4c64-85b0-ae603057a91c" />| Bands | Long form | Example|
-|04| <p align="center">EVI</p> | <img width="408" height="62" alt="image" src="https://github.com/user-attachments/assets/7fb973b5-8116-4230-8bb3-1196d5b62d18" />| NIR, Red Blue L| Enhanced Vegetation Index| Example| 
-|05| <p align="center">EVI 2</p> | <img width="306" height="57" alt="image" src="https://github.com/user-attachments/assets/4a269d17-03c2-40c5-9470-ca23e611a9b0" />| Bands | Long form | Example|
-|06| <p align="center">CVI</p> | <img width="146" height="43" alt="image" src="https://github.com/user-attachments/assets/861dffcd-4284-4659-90a0-53c57aa88f4a" />| Bands | Long form | Example|
-|07| <p align="center">CI-RedEdge</p> | <img width="241" height="46" alt="image" src="https://github.com/user-attachments/assets/26994b03-1456-4589-b9f4-be0908478c78" />| Bands | Long form | Example|
+|No |Acronym |Formula| Long Form with Legend | Example|
+|---|--------|----------|--------|--------|
+|01| <p align="center">NDVI</p>| <img width="196" height="54" alt="image" src="https://github.com/user-attachments/assets/437685f4-527f-4046-94b0-e20890fb1145" />| <p align="center"> **Normalized Differential Vegetation Index** </p> <img width="400" height="76" alt="Image" src="https://github.com/user-attachments/assets/f9272c30-9a30-4fc4-9254-fafd28564ba7" />| <img width="101" height="101" alt="Image" src="https://github.com/user-attachments/assets/64f5a061-f6d0-447d-932f-68aca26e5063" />
+|03| <p align="center">NDRE</p> | <img width="209" height="45" alt="image" src="https://github.com/user-attachments/assets/a5d1e1db-f2ee-4c64-85b0-ae603057a91c" />| Long form | Example|
+|04| <p align="center">EVI</p> | <img width="408" height="62" alt="image" src="https://github.com/user-attachments/assets/7fb973b5-8116-4230-8bb3-1196d5b62d18" />| Enhanced Vegetation Index| Example| 
+|05| <p align="center">EVI 2</p> | <img width="306" height="57" alt="image" src="https://github.com/user-attachments/assets/4a269d17-03c2-40c5-9470-ca23e611a9b0" />|  Long form | Example|
+|06| <p align="center">CVI</p> | <img width="146" height="43" alt="image" src="https://github.com/user-attachments/assets/861dffcd-4284-4659-90a0-53c57aa88f4a" />|  Long form | Example|
+|07| <p align="center">CI-RedEdge</p> | <img width="241" height="46" alt="image" src="https://github.com/user-attachments/assets/26994b03-1456-4589-b9f4-be0908478c78" />|   Long form | Example|
 <br />
 
 References 
