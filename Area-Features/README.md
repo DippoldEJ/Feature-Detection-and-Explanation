@@ -79,7 +79,7 @@ Coefficients:<br />
 |03| <p align="center">NDRE</p> | <img width="209" height="45" alt="image" src="https://github.com/user-attachments/assets/a5d1e1db-f2ee-4c64-85b0-ae603057a91c" />| Bands | Long form | Example|
 |04| <p align="center">EVI</p> | <img width="408" height="62" alt="image" src="https://github.com/user-attachments/assets/7fb973b5-8116-4230-8bb3-1196d5b62d18" />| NIR, Red Blue L| Enhanced Vegetation Index| Example| 
 |05| <p align="center">EVI 2</p> | <img width="285" height="57" alt="image" src="https://github.com/user-attachments/assets/681915cf-fe36-4cc4-b7ee-6546d6524f98" />| Bands | Long form | Example|
-|06| <p align="center">CVI</p> | Formula | Bands | Long form | Example|
+|06| <p align="center">CVI</p> | <img width="146" height="43" alt="image" src="https://github.com/user-attachments/assets/861dffcd-4284-4659-90a0-53c57aa88f4a" />| Bands | Long form | Example|
 |07| <p align="center">CI-RedEdge</p> | Formula | Bands | Long form | Example|
 <br />
 
