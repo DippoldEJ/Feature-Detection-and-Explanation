@@ -80,7 +80,7 @@ Coefficients:<br />
 |04| <p align="center">EVI</p> | <img width="408" height="62" alt="image" src="https://github.com/user-attachments/assets/7fb973b5-8116-4230-8bb3-1196d5b62d18" />| Enhanced Vegetation Index| Example| 
 |05| <p align="center">EVI 2</p> | <img width="306" height="57" alt="image" src="https://github.com/user-attachments/assets/4a269d17-03c2-40c5-9470-ca23e611a9b0" />|  Enhanced Vegetation Index 2 | Example|
 |06| <p align="center">CVI</p> | <img width="151" height="43" alt="image" src="https://github.com/user-attachments/assets/b6632b24-9f8a-4dfe-8d04-3762f488c892" />|  Chlorophyll Vegetation Index | Example|
-|07| <p align="center">CI-RedEdge</p> | <img width="241" height="46" alt="image" src="https://github.com/user-attachments/assets/26994b03-1456-4589-b9f4-be0908478c78" />|   Long form | Example|
+|07| <p align="center">CI-RedEdge</p> | <img width="245" height="46" alt="image" src="https://github.com/user-attachments/assets/72848d83-4a74-4722-8840-1f23be7cded2" />|   Long form | Example|
 <br />
 
 References 
